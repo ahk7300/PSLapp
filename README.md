@@ -34,7 +34,6 @@ This project is a **web application** designed for real-time recognition of Paki
    git clone https://github.com/yourusername/psl-recognition.git
    cd psl-recognition
 ```
-```
 2.Set up a virtual environment:
   ```bash
   python -m venv venv
