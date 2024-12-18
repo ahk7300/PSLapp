@@ -92,7 +92,7 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 - **Muhammad Shaheer Mirza**  
 - **Saad Jawaid Khan**
 
-For any questions or contributions, feel free to open an issue or contact us via email.
+For any questions or contributions, feel free to open an issue or contact us via email (ahk7300@gmail.com)
 
 ---
 
