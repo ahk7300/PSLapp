@@ -89,8 +89,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 - **Ali Haider Khan**
 - **Amenah Abdul Mujeeb**    
 - **Sindhu Khalid**  
-- **Muhammad Shaheer Mirza**  
-- **Saad Jawaid Khan**
+- **Professor Muhammad Shaheer Mirza**  
+- **Professor Saad Jawaid Khan**
 
 For any questions or contributions, feel free to open an issue or contact us via email (ahk7300@gmail.com)
 
