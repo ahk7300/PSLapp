@@ -85,8 +85,8 @@ This project is licensed under the **MIT License**. See the `LICENSE` file for d
 ---
 
 ## Contributors
-- **Amenah Abdul Mujeeb**  
-- **Ali Haider Khan**  
+- **Ali Haider Khan**
+- **Amenah Abdul Mujeeb**    
 - **Sindhu Khalid**  
 - **Muhammad Shaheer Mirza**  
 - **Saad Jawaid Khan**
