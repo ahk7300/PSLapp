@@ -33,20 +33,21 @@ This project is a **web application** designed for real-time recognition of Paki
    ```bash
    git clone https://github.com/yourusername/psl-recognition.git
    cd psl-recognition
--
+```
+```
 2.Set up a virtual environment:
   ```bash
   python -m venv venv
   source venv/bin/activate  # On Windows: venv\Scripts\activate
--
+```
 3.Install dependencies:
   ```bash
   pip install -r requirements.txt
--
+```
 4.Run the application:
   ```bash
   flask run
----
+```
    ## Usage
 1. Access the app via your browser at `http://127.0.0.1:5000`.
 2. Select the type of gesture (static or dynamic).
